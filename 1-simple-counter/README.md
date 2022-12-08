@@ -1,3 +1,20 @@
+
+
+https://user-images.githubusercontent.com/107856471/206445396-a5ee8850-3ce4-445a-a550-d90da73a73d9.mp4
+
+--------------------Technologies used------------------
+
+![htmlicon](https://user-images.githubusercontent.com/107856471/206445596-68ebda03-7d9f-45c2-8a12-e949022cbf88.png)
+![cssicon](https://user-images.githubusercontent.com/107856471/206445613-d95394f9-712d-4f03-9f3d-4692c1fc3b55.png)
+![jsicon](https://user-images.githubusercontent.com/107856471/206445668-e9c140b8-9eba-4b86-9308-46073c700057.png)
+![reacticon](https://user-images.githubusercontent.com/107856471/206445695-3a7631a1-668c-4930-b515-5d5af35a23b3.png)
+
+Summary:
+You will build a simple React App which increment/decrements count on-screen when buttons are clicked using React State.
+
+Topics covered:
+React basic function components, state.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
