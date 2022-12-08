@@ -12,7 +12,11 @@ https://user-images.githubusercontent.com/107856471/206543337-62a14361-ca46-41eb
 ![bootstrapicon](https://user-images.githubusercontent.com/107856471/206543783-9cd0f34e-ec86-47cf-bea8-281977847e5c.png)
 ![reacticon](https://user-images.githubusercontent.com/107856471/206543884-3b4b74e0-a4db-4bf4-b2c8-15ed505b6d5e.png)
 
+Summary:
+You will build a temperature control app where users can increment/decrement temperature and the background color changes based on temperature.
 
+Topics covered:
+React basics like Hooks, components, useState().
 
 # Getting Started with Create React App
 
