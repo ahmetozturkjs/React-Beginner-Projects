@@ -1,3 +1,19 @@
+
+
+
+https://user-images.githubusercontent.com/107856471/209668036-ddce17f6-08fc-4d6f-b4cb-b7fc3cdac413.mp4
+
+![htmlicon](https://user-images.githubusercontent.com/107856471/206543729-52347908-6bd4-4490-860d-e148349107f7.png)
+![cssicon](https://user-images.githubusercontent.com/107856471/206543744-b63e4f35-fe5a-4ca1-ab12-c55f26fb6ec6.png)
+![jsicon](https://user-images.githubusercontent.com/107856471/206543770-91336305-0a36-4794-a44d-8b52281147d7.png)
+![bootstrapicon](https://user-images.githubusercontent.com/107856471/206543783-9cd0f34e-ec86-47cf-bea8-281977847e5c.png)
+![reacticon](https://user-images.githubusercontent.com/107856471/206543884-3b4b74e0-a4db-4bf4-b2c8-15ed505b6d5e.png)
+
+You will build a simple to-do app where users can add different types of notes. In addition, users can approve or delete notes from the list.
+
+Topics Covered:
+React basics such as components, state, props. React Hooks lifecycle ie useEffect() and using controlled HTML form in React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
