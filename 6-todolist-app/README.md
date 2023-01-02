@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/107856471/209668036-ddce17f6-08fc-4d6f
 ![bootstrapicon](https://user-images.githubusercontent.com/107856471/206543783-9cd0f34e-ec86-47cf-bea8-281977847e5c.png)
 ![reacticon](https://user-images.githubusercontent.com/107856471/206543884-3b4b74e0-a4db-4bf4-b2c8-15ed505b6d5e.png)
 
-You will build a simple to-do app where users can add different types of notes. In addition, users can approve or delete notes from the list.
+a simple to-do app where users can add different types of notes. In addition, users can approve or delete notes from the list.
 
 Topics Covered:
 React basics such as components, state, props. React Hooks lifecycle ie useEffect() and using controlled HTML form in React.
