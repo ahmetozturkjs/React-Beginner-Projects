@@ -1,3 +1,21 @@
+
+
+https://user-images.githubusercontent.com/107856471/210340228-281b453b-e00e-4503-9111-e8e41d14dd05.mp4
+
+
+![htmlicon](https://user-images.githubusercontent.com/107856471/206543729-52347908-6bd4-4490-860d-e148349107f7.png)
+![cssicon](https://user-images.githubusercontent.com/107856471/206543744-b63e4f35-fe5a-4ca1-ab12-c55f26fb6ec6.png)
+![jsicon](https://user-images.githubusercontent.com/107856471/206543770-91336305-0a36-4794-a44d-8b52281147d7.png)
+
+![reacticon](https://user-images.githubusercontent.com/107856471/206543884-3b4b74e0-a4db-4bf4-b2c8-15ed505b6d5e.png)
+
+Summary:
+build a calculating app that allows the number to be entered by a click of buttons and perform operations like addition, subtraction, multiplication, etc to produce results.
+
+Topics covered:
+React class-based components, state. CSS styles with grid and flexbox
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
